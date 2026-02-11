@@ -1,0 +1,2 @@
+-- Optional seed data (run only in dev)
+-- Insert a demo organization manually after you set a password hash.
